@@ -1,2 +1,0 @@
-API_KEY = "5723833218:AAE_PC3g_fnbIqQjv5dSP71oS3m-dqEbf6M"
-WORDS_API_URL_RANDOM = 'http://127.0.0.1:8000/random'

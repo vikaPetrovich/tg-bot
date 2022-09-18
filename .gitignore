@@ -2,5 +2,5 @@ venv
 .idea
 .vscode
 *.sqlite3
-proj/proj/config.py
+config.py
 *__pycache__

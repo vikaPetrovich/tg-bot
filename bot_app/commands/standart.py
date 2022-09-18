@@ -1,8 +1,6 @@
 from aiogram import types
-
-from . import messages
-
-from .app import dp
+from proj2.bot_app import messages
+from proj2.bot_app.app import dp
 
 
 @dp.message_handler(commands=['start', 'help'])
