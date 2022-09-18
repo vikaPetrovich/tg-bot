@@ -2,3 +2,4 @@ venv
 .idea
 .vscode
 *.sqlite3
+./proj/proj/config.py
